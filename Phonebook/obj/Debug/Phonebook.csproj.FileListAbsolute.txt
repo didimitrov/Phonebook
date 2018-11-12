@@ -1,0 +1,6 @@
+D:\Repos\Phonebook\obj\Debug\Phonebook.csproj.CoreCompileInputs.cache
+D:\Repos\Phonebook\bin\Debug\Phonebook.exe.config
+D:\Repos\Phonebook\bin\Debug\Phonebook.exe
+D:\Repos\Phonebook\bin\Debug\Phonebook.pdb
+D:\Repos\Phonebook\obj\Debug\Phonebook.exe
+D:\Repos\Phonebook\obj\Debug\Phonebook.pdb
